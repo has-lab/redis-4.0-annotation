@@ -3,4 +3,4 @@
 *.gcov
 redis.info
 lcov-html
-.history/*
+.history?
