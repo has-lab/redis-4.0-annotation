@@ -1,6 +1,0 @@
-*.gcda
-*.gcno
-*.gcov
-redis.info
-lcov-html
-.history
